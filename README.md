@@ -1,5 +1,6 @@
-Caio README.md
-
+<div align="center">
+<h5>Olá meu nome é Caio, Bem-Vindo! :smile: :computer: </h5> </d> 
+              
 <div align="center">
   <a href="https://github.com/Caiomeloml">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiomeloml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,7 +8,6 @@ Caio README.md
 </div>
 
 <div align="center";>
-<br>
 <h4>Estudando, aprendendo e aperfeiçoando:<h4>
 <img align="center" alt="Caio-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 <img align="center" alt="Caio-Git-Hub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
