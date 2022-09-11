@@ -14,5 +14,5 @@
 <img align="center" alt="Caio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Caio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Caio-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Caio-JS" height="40" width="50" src="https://w7.pngwing.com/pngs/924/1009/png-transparent-mysql-relational-database-management-system-logo-php-others-orange-logo-mysql-logo.png">
+<img align="center" alt="Caio-Mysql" height="40" width="50" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
 </div>
